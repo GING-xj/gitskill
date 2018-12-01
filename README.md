@@ -1,3 +1,3 @@
 # gitskill
-create a new branch is quickly & stable.
+create a new branch is quickly and stable.
 
